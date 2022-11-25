@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "https://fyzoriel-coaster-buy-backend.onrender.com/",
+    "target": "https://fyzoriel-coaster-buy-backend.onrender.com",
     "secure": false,
     "changeOrigin": true,
     "pathRewrite": {
